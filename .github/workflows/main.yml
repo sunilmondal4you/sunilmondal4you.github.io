@@ -2,8 +2,9 @@ name: Deploy to GitHub Pagess
 
 on:
   pull_request:
-      types: [closed]
-
+    types: [closed]
+    branches:
+      - main
   workflow_dispatch:
 
 concurrency:
