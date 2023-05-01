@@ -31,14 +31,14 @@ body {
   margin-bottom: 30px;
 }
   .full-name {
-    font-size: 40px;
+    font-size: 35px;
     text-transform: uppercase;
     margin-bottom: 5px;
-    line-height: 30px;
+    line-height: 25px;
   }
 
   .first-name {
-    font-weight: 700;
+    font-weight: 600;
   }
 
   .last-name {
