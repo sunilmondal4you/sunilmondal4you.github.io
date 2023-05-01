@@ -21,7 +21,7 @@ body {
 .container {
   max-width: 700px;
   margin: 0px auto 20px;
-  box-shadow: 0px 0px 3px #DAD7D7;
+  box-shadow: 0px 0px 1px #DAD7D7;
   border-radius: 3px;
   padding: 40px;
   margin-top: 50px;
