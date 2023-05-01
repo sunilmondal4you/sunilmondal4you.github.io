@@ -51,6 +51,9 @@ body {
   .f-19{
     font-size: 19px;
   }
+  .about{
+    text-align: justify;
+  }
 
   .email ,
   .phone {
